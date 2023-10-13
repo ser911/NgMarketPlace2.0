@@ -1,0 +1,13 @@
+@import '../../../styles.scss';
+
+.top-content{
+    .top-content-title{
+        color: $primaryColor;
+    }
+    display: flex;
+    app-search-bar{
+        width: 70%;
+        padding-left: 8%;
+      }
+
+}

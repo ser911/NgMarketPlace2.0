@@ -1,0 +1,425 @@
+[
+  {
+    "id": 1,
+    "category": "Fruits",
+    "name": "Apple",
+    "pricePerKg": 4.50,
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "brand": "Farm Fresh",
+    "origin": "USA"
+  },
+  {
+    "id": 2,
+    "category": "Fruits",
+    "name": "Banana",
+    "pricePerKg": 3.00,
+    "image": "https://images.unsplash.com/photo-1603052875302-d376b7c0638a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "brand": "Tropical Delights",
+    "origin": "Ecuador"
+  },
+  {
+    "id": 3,
+    "category": "Vegetables",
+    "name": "Carrot",
+    "pricePerKg": 2.20,
+    "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "brand": "Green Garden",
+    "origin": "Canada"
+  },
+  {
+    "id": 4,
+    "category": "Vegetables",
+    "name": "Broccoli",
+    "pricePerKg": 2.80,
+    "image": "https://images.unsplash.com/photo-1583663848850-46af132dc08e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "brand": "Farm Fresh",
+    "origin": "USA"
+  },
+  {
+    "id": 5,
+    "category": "Dairy",
+    "name": "Milk",
+    "pricePerLiter": 2,
+    "image": "https://images.unsplash.com/photo-1576186726115-4d51596775d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
+    "brand": "Cow's Best",
+    "origin": "UK"
+  },
+  {
+    "id": 6,
+    "category": "Dairy",
+    "name": "Cheese",
+    "pricePerKg": 6.50,
+    "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2073&q=80",
+    "brand": "Dairy Delights",
+    "origin": "France"
+  },
+  {
+    "id": 7,
+    "category": "Bakery",
+    "name": "Bread",
+    "pricePerKg": 3.0,
+    "image": "https://images.unsplash.com/photo-1686431984279-861a8d22c5f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "brand": "Baker's Choice",
+    "origin": "Germany"
+  },
+  {
+    "id": 8,
+    "category": "Bakery",
+    "name": "Croissant",
+    "pricePerCount": 1.80,
+    "image": "https://images.unsplash.com/photo-1623334044303-241021148842?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "brand": "Paris Delights",
+    "origin": "France"
+  },
+  {
+    "id": 9,
+    "category": "Meat",
+    "name": "Chicken Breast",
+    "pricePerKg": 8.90,
+    "image": "https://images.unsplash.com/photo-1633096013004-e2cb4023b560?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+    "brand": "Farmhouse",
+    "origin": "Australia"
+  },
+  {
+    "id": 10,
+    "category": "Exotic Fruits",
+    "name": "Avocado",
+    "pricePerCount": 1.20,
+    "image": "avocado-image-url",
+    "brand": "Green Delights",
+    "origin": "Mexico"
+  },
+  {
+    "id": 11,
+    "category": "Fish",
+    "name": "Salmon",
+    "pricePerKg": 22,
+    "image": "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "brand": "Sea Fresh",
+    "origin": "Norway"
+  },
+  {
+    "id": 12,
+    "category": "Vegetables",
+    "name": "Spanish Olives",
+    "pricePerKg": 9.50,
+    "image": "https://images.unsplash.com/photo-1612879988258-0d819c297621?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "brand": "Mediterranean Treats",
+    "origin": "Spain"
+  },  
+  {
+    "id": 13,
+    "category": "Exotic Fruits",
+    "name": "Mango",
+    "pricePerCount": 3.50,
+    "image": "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "brand": "Tropical Treats",
+    "origin": "India"
+  },
+  {
+    "id": 14,
+    "category": "Exotic Fruits",
+    "name": "Dragon Fruit",
+    "pricePerCount": 2.50,
+    "image": "https://images.unsplash.com/photo-1623030235422-07f96401f5ea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "brand": "Exotic Harvest",
+    "origin": "Vietnam"
+  },
+  {
+    "id": 15,
+    "category": "Nuts",
+    "name": "Almonds",
+    "pricePerKg": 23,
+    "image": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+    "brand": "Nutty Nature",
+    "origin": "USA"
+  },
+  {
+    "id": 16,
+    "category": "Nuts",
+    "name": "Cashews",
+    "pricePerKg": 21,
+    "image": "https://images.unsplash.com/photo-1594900689460-fdad3599342c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1952&q=80",
+    "brand": "Nutty Delight",
+    "origin": "Brazil"
+  },
+  {
+    "id": 17,
+    "category": "Fish",
+    "name": "Trout",
+    "pricePerKg": 16.50,
+    "image": "https://images.unsplash.com/photo-1510130387422-82bed34b37e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+    "brand": "Freshwater Feast",
+    "origin": "Canada"
+  },
+  {
+    "id": 18,
+    "category": "Exotic Fruits",
+    "name": "Passion Fruit",
+    "pricePerCount": 2.70,
+    "image": "https://images.unsplash.com/photo-1616077498072-ccba9b178fa5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "brand": "Tropical Bliss",
+    "origin": "Brazil"
+  },
+  {
+    "id": 19,
+    "category": "Nuts",
+    "name": "Walnuts",
+    "pricePerKg": 17,
+    "image": "https://images.unsplash.com/photo-1524593656068-fbac72624bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2FsbnV0c3xlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "brand": "Nutty Crunch",
+    "origin": "China"
+  },
+  {
+    "id": 20,
+    "category": "Exotic Fruits",
+    "name": "Lychee",
+    "pricePerCount": 2.20,
+    "image": "https://images.unsplash.com/photo-1594151820883-f09a7a4246fe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8THljaGVlfGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60",
+    "brand": "Exotic Bites",
+    "origin": "Thailand"
+  },
+  {
+    "id": 21,
+    "category": "Beverages",
+    "name": "Green Tea",
+    "pricePerLiter": 2.90,
+    "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "brand": "Zen Blends",
+    "origin": "Japan"
+  },
+  {
+    "id": 22,
+    "category": "Beverages",
+    "name": "Coffee Beans",
+    "pricePerKg": 8.50,
+    "image": "https://images.unsplash.com/photo-1580933073521-dc49ac0d4e6a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+    "brand": "Mountain Aroma",
+    "origin": "Colombia"
+  },
+  {
+    "id": 23,
+    "category": "Meat",
+    "name": "Whole Chicken",
+    "pricePerCount": 13.70,
+    "image": "https://images.unsplash.com/photo-1672787153655-0c19308dcc60?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "brand": "Local ranch",
+    "origin": "USA"
+  },
+  {
+    "id": 24,
+    "category": "Beverages",
+    "name": "Orange Juice",
+    "pricePerLiter": 4.40,
+    "image": "https://images.unsplash.com/photo-1587015990127-424b954e38b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8b3JhbmdlJTIwanVpY2V8ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=500&q=60",
+    "brand": "Morning Bliss",
+    "origin": "Spain"
+  },
+  {
+    "id": 25,
+    "category": "Spices",
+    "name": "Black Pepper",
+    "pricePer100g": 3,
+    "image": "black-pepper-image-url",
+    "brand": "https://images.unsplash.com/photo-1506085621370-98b475435879?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+    "origin": "India"
+  },
+  {
+    "id": 26,
+    "category": "Spices",
+    "name": "Cinnamon",
+    "pricePer100g": 2.70,
+    "image": "https://images.unsplash.com/photo-1622798337764-259682f03741?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "brand": "Aromatic Essence",
+    "origin": "Sri Lanka"
+  },
+  {
+    "id": 27,
+    "category": "Beverages",
+    "name": "Craft Beer",
+    "pricePerLiter": 3.80,
+    "image": "https://images.unsplash.com/photo-1523567830207-96731740fa71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1667&q=80",
+    "brand": "Local Brews",
+    "origin": "Germany"
+  },
+  {
+    "id": 28,
+    "category": "Spices",
+    "name": "Turmeric",
+    "pricePer100g": 1.40,
+    "image": "https://images.unsplash.com/photo-1615485500834-bc10199bc727?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2080&q=80",
+    "brand": "Golden Spice",
+    "origin": "India"
+  },
+  {
+    "id": 29,
+    "category": "Spices",
+    "name": "Paprika",
+    "pricePer100g": 1.10,
+    "image": "https://images.unsplash.com/photo-1577563717655-919fc57789b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
+    "brand": "Colorful Cuisine",
+    "origin": "Hungary"
+  },
+  {
+    "id": 30,
+    "category": "Grains & Seeds",
+    "name": "Quinoa",
+    "pricePerKg": 10.00,
+    "image": "https://images.unsplash.com/photo-1590616270818-f08142f85c6b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1972&q=80",
+    "brand": "Healthful Harvest",
+    "origin": "Bolivia"
+  },
+{
+  "id": 31,
+  "category": "Italian Foods",
+  "name": "Penne Pasta",
+  "pricePerKg": 3.70,
+  "image": "https://images.unsplash.com/photo-1497802492746-aa584aa6ea22?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+  "brand": "La Pasta Deliziosa",
+  "origin": "Italy"
+},
+{
+  "id": 32,
+  "category": "Italian Foods",
+  "name": "Ciabatta Bread",
+  "pricePerKg": 7.50,
+  "image": "https://images.unsplash.com/photo-1676138937661-63d9fa279445?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  "brand": "Il Pane Autentico",
+  "origin": "Italy"
+},
+{
+  "id": 33,
+  "category": "Dairy Products",
+  "name": "Ghee Butter",
+  "pricePerKg": 18.00,
+  "image": "https://images.unsplash.com/photo-1573812461383-e5f8b759d12e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2hlZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60",
+  "brand": "Creamy Gold",
+  "origin": "India"
+},
+{
+  "id": 34,
+  "category": "Italian Foods",
+  "name": "Risotto Rice",
+  "pricePerKg": 2.80,
+  "image": "https://images.unsplash.com/photo-1613758235256-43a7bdc21d82?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  "brand": "Il Riso Perfetto",
+  "origin": "Italy"
+},
+{
+  "id": 35,
+  "category": "Italian Foods",
+  "name": "Classic Pesto",
+  "pricePer100g": 1.30,
+  "image": "https://images.unsplash.com/photo-1445847562439-f251c3799ea5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVzdG98ZW58MHx8MHx8fDI%3D&auto=format&fit=crop&w=500&q=60",
+  "brand": "Verde Saporito",
+  "origin": "Italy"
+},
+{
+  "id": 36,
+  "category": "Italian Foods",
+  "name": "Sourdough Focaccia",
+  "pricePerKg": 6.50,
+  "image": "focaccia-image-url",
+  "brand": "https://images.unsplash.com/photo-1605466237763-652c555c60bc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80",
+  "origin": "Italy"
+},
+{
+  "id": 37,
+  "category": "Grains and Cereals",
+  "name": "Buckwheat",
+  "pricePerKg": 3.40,
+  "image": "https://images.unsplash.com/photo-1613758235306-69cc0a3f614d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  "brand": "GrainMasters",
+  "origin": "Russia"
+},
+{
+  "id": 38,
+  "category": "Nut Butters",
+  "name": "Almond Butter",
+  "pricePerKg": 33.00,
+  "image": "https://images.unsplash.com/photo-1615110250484-e8c3b151b957?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  "brand": "Nutty Delights",
+  "origin": "USA"
+},
+{
+  "id": 39,
+  "category": "Grains and Seeds",
+  "name": "Chia Seeds",
+  "pricePerKg": 4.20,
+  "image": "https://images.unsplash.com/photo-1502825926876-e8819fbb2fd0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+  "brand": "SeedPros",
+  "origin": "Mexico"
+},
+{
+  "id": 40,
+  "category": "Italian Foods",
+  "name": "Tiramisu Dessert",
+  "pricePerKg": 14.50,
+  "image": "https://images.unsplash.com/photo-1568627175548-e7e20bb79f84?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1976&q=80",
+  "brand": "Dolci Delizie",
+  "origin": "Italy"
+},
+{
+  "id": 41,
+  "category": "Eggs",
+  "name": "Free-Range Eggs (12 pack)",
+  "pricePerKg": 4.20,
+  "image": "https://images.unsplash.com/photo-1660224286794-fc173fa9295c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2008&q=80",
+  "brand": "Nature's Best",
+  "origin": "Local Farm"
+},
+{
+  "id": 42,
+  "category": "Eggs",
+  "name": "Standard Eggs (6 pack)",
+  "pricePerKg": 2.60,
+  "image": "https://images.unsplash.com/photo-1477506410535-f12fe9af97cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8MTIlMjBlZ2dzfGVufDB8fDB8fHwy&auto=format&fit=crop&w=500&q=60",
+  "brand": "Farm Fresh",
+  "origin": "Factory Farm"
+},
+{
+  "id": 43,
+  "category": "Prime Beef Cuts",
+  "name": "Tenderloin Steak",
+  "pricePerKg": 19.00,
+  "image": "https://images.unsplash.com/photo-1571067224158-622a54542fed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+  "brand": "Premium Cuts",
+  "origin": "Local Ranch"
+},
+{
+  "id": 44,
+  "category": "Prime Beef Cuts",
+  "name": "Ribeye Steak",
+  "pricePerKg": 24.50,
+  "image": "https://images.unsplash.com/photo-1690983323540-d6e889c4b107?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "brand": "Premium Cuts",
+  "origin": "Local Ranch"
+},
+{
+  "id": 45,
+  "category": "Prime Beef Cuts",
+  "name": "Sirloin Steak",
+  "pricePerKg": 27.50,
+  "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "brand": "Premium Cuts",
+  "origin": "Local Ranch"
+},
+{
+  "id": 46,
+  "category": "Prime Beef Cuts",
+  "name": "Tomahawk Steak",
+  "pricePerKg": 38.50,
+  "image": "https://images.unsplash.com/photo-1597398230884-35763d59ed15?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+  "brand": "Premium Cuts",
+  "origin": "Local Ranch"
+},
+{
+  "id": 47,
+  "category": "Vegetables",
+  "name": "Sweet Potato",
+  "pricePerKg": 4.80,
+  "image": "https://images.unsplash.com/photo-1584699006710-3ad3b82fce7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "brand": "Earth's Delights",
+  "origin": "USA"
+}
+]

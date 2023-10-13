@@ -1,0 +1,29 @@
+@import '../styles.scss';
+
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .sidenav-container {
+    flex: 1;
+    overflow: hidden;
+  }
+  
+  .content-area {
+    padding: 20px;
+    height: 75%;
+  }
+  
+  .bottom-content{
+    height: 18%;
+    position: sticky;
+    bottom: 0;
+    app-footer{
+        background-color: $tertiaryLight;
+    
+    }
+
+  }

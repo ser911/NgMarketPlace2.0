@@ -1,0 +1,11 @@
+.login-form {
+    display: flex;
+    gap: 10px;  /* Space between the form fields and button */
+    align-items: center;
+    margin-right: 20px;  /* Push the login form a bit to the left */
+}
+
+mat-form-field {
+    height: 65px;  /* Adjust width as needed */
+}
+

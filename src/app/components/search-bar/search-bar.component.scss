@@ -1,0 +1,27 @@
+@import '../../../styles.scss';
+
+mat-form-field{
+    width: 100%;
+}
+.transparent-search {
+    background: transparent;
+    border: none;
+  }
+  
+  .transparent-search .mat-form-field-underline {
+    display: none;
+  }
+  
+  .transparent-search .mat-form-field-wrapper {
+    padding-bottom: 0;
+  }
+  
+  .transparent-search .mat-form-field-label {
+    color: rgba(255, 255, 255, 0.7); /* You can adjust this for your preferred label color */
+  }
+  
+  .transparent-search input {
+    caret-color: $secondaryColor; /* Adjust for your preferred caret color */
+    color: $primaryColor; /* Adjust for the input text color */
+  }
+  
